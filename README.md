@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # Настройки
-TOKEN = "ВАШ_TELEGRAM_BOT_TOKEN"
+TOKEN = "7612531313:AAHP74MNe-N-HYH1kwqwwzbbJFt6LUyfNtg"
 ADMIN_ID = 123456789  # Ваш ID для админ-уведомлений
 
 # Включим логирование
